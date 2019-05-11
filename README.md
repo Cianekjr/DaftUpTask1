@@ -4,9 +4,9 @@
 
 ### Using technologies:
 
-⋅⋅* HTML5
-⋅⋅* CSS
-⋅⋅* BEM
-⋅⋅* RWD
-⋅⋅* Mobile first
-⋅⋅* CSS Grid (nested grid)
+1. HTML5
+2. CSS
+3. BEM
+4. RWD
+5. Mobile first
+6. CSS Grid (nested grid)
